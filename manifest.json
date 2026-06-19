@@ -1,0 +1,29 @@
+{
+  "name": "HerrOS — Şəxsi Panel & Produktivlik",
+  "short_name": "HerrOS",
+  "description": "Azərbaycan dilində tam offline şəxsi panel — vəzifələr, maliyyə, qeydlər, oyunlar, pomodoro və daha çox.",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#06101c",
+  "theme_color": "#06101c",
+  "lang": "az",
+  "scope": "./",
+  "icons": [
+    {
+      "src": "logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "screenshots": []
+}
+
